@@ -1,0 +1,8 @@
+{
+  "name": "MathTutor Studio AI",
+  "description": "A smart interactive whiteboard for remote math tutoring featuring real-time drawing, image/problem uploading, and an AI co-pilot powered by Gemini for solving and explaining math problems.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
